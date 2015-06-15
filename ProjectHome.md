@@ -1,0 +1,1 @@
+This project hosts the source code for the examples for the Manning book: jQuery for Designers written by Remy Sharp
